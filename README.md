@@ -14,7 +14,7 @@ This is a simple FastAPI backend for the HNG12 internship.
 }
 ```
 ## Setup & Installation
-** clone the repository **
+* clone the repository 
 ```git clone https://github.com/Ambogo2/hng12-stage0-api.git
 cd hng12-stage0-api
 ```
