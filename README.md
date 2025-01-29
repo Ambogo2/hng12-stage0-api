@@ -12,3 +12,9 @@ This is a simple FastAPI backend for the HNG12 internship.
 "email": "ruthambogo.ra@gmail.com",
 "github_url": "https://github.com/Ambogo2/hng12-stage0-api.git"
 }
+
+## Setup & Installation
+** clone the repository
+```git clone https://github.com/Ambogo2/hng12-stage0-api.git
+cd hng12-stage0-api
+```
