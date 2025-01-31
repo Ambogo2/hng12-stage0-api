@@ -12,8 +12,8 @@ def get_info():
     try:
         return jsonify({
             "email": "ruthambogo.ra@gmail.com",
-            "current_datetime": datetime.now(pytz.UTC).isoformat(),
-            "github_url": "https://github.com/Ambogo2/hng12-stage0-api.git"
+            "current_datetime": datetime.now().isoformat() + "Z",
+            "github_url": "https://github.com/Ambogo2/hng12-stage0-api"
         }), 200
     except Exception as e:
         return jsonify({"error": "Internal Server Error", "details": str(e)}), 500 
