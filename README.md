@@ -37,3 +37,4 @@ By default, the app runs on `http://127.0.0.1:5000.`
 This API is deployed on Render. The deployed version can be accessed at:
 `https://hng12-stage0-api-nw4x.onrender.com/`
 
+[hng-task](https://hng.tech/hire/python-developers)
